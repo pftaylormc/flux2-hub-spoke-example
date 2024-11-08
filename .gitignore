@@ -21,3 +21,5 @@
 go.work
 
 bin/
+
+github-token.sh
